@@ -11,7 +11,6 @@ console.log(map)
 let filterEhMapJuntos = idades
 .map((idade) => idade * 2)
 .filter((idade) => idade > 20)
-
 console.log(filterEhMapJuntos)*/
 
 const objeto = {
